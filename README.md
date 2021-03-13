@@ -302,7 +302,7 @@ bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShe
 
 
 
-~~特别注意:
+特别注意:
 
 
 
@@ -334,7 +334,7 @@ bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShe
 
 
 
-分区界面标题一般显示为: “Starting up the partitioner“~~
+分区界面标题一般显示为: “Starting up the partitioner“
 
 
 
